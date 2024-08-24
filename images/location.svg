@@ -1,0 +1,7 @@
+<svg width="42" height="42" viewBox="0 0 42 42" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Centered background circle -->
+  <circle cx="21" cy="21" r="21" fill="#F48E28"/>
+  <!-- Adjusted paths to ensure they are perfectly centered within the circle -->
+  <path d="M26.5 21C26.5 22.933 24.933 24.5 23 24.5C21.067 24.5 19.5 22.933 19.5 21C19.5 19.067 21.067 17.5 23 17.5C24.933 17.5 26.5 19.067 26.5 21Z" stroke="white" stroke-width="1.5"/>
+  <path d="M23 12C27.8706 12 32 16.033 32 20.9258C32 25.8965 27.8033 29.3847 23.927 31.7567C23.6445 31.9162 23.325 32 23 32C22.675 32 22.3555 31.9162 22.073 31.7567C18.2039 29.3616 14 25.9137 14 20.9258C14 16.033 18.1294 12 23 12Z" stroke="white" stroke-width="1.5"/>
+</svg>
